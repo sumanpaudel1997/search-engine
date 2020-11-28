@@ -1,2 +1,2 @@
-# web-bot
-These a python bot that can answer any question and I have deployed it on website so everyone can search in it and solve their Problems.
+# Mini Search Engine 
+These a python search engine that can answer any question related to particualr field .
